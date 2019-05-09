@@ -1,0 +1,21 @@
+.backgroundcolorcontainer1 {
+    background-color: #d8dfe7;
+    margin: auto;
+    height: 60%;
+    /* min-height: 45em; */
+    background-image: url("https://static.bitmex.com/assets/img/bitmex-logo-alt-white.png");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 10em;
+}
+
+
+.heightcontainer1 {
+    min-height: 100%;
+    top: 7em;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    position: fixed;
+    overflow: auto;
+}
