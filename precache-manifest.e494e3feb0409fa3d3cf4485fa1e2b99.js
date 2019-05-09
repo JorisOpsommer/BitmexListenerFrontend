@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "8b78ece21e4eecb6bc7ccdd01919da6c",
+    "revision": "e3da31b645c290c0c6241433fdf7a5ad",
     "url": "/bitmexListenerFrontend/index.html"
   },
   {
-    "revision": "7dbde1c1d2feba0f571a",
+    "revision": "22ce16d9a87ff2263cae",
     "url": "/bitmexListenerFrontend/static/css/2.1aa7e2c8.chunk.css"
   },
   {
-    "revision": "5429a484be6a73e11ef4",
+    "revision": "e6bc95026c545839d587",
     "url": "/bitmexListenerFrontend/static/css/main.81fabb81.chunk.css"
   },
   {
-    "revision": "7dbde1c1d2feba0f571a",
-    "url": "/bitmexListenerFrontend/static/js/2.f7c05edb.chunk.js"
+    "revision": "22ce16d9a87ff2263cae",
+    "url": "/bitmexListenerFrontend/static/js/2.8ff2b72c.chunk.js"
   },
   {
-    "revision": "5429a484be6a73e11ef4",
-    "url": "/bitmexListenerFrontend/static/js/main.eef5beb0.chunk.js"
+    "revision": "e6bc95026c545839d587",
+    "url": "/bitmexListenerFrontend/static/js/main.7b64bde3.chunk.js"
   },
   {
     "revision": "ccfc42e40a0ec7953fea",
