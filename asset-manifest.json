@@ -1,16 +1,18 @@
 {
   "files": {
-    "main.css": "/bitmexListenerFrontend/static/css/main.2cce8147.chunk.css",
-    "main.js": "/bitmexListenerFrontend/static/js/main.792477c8.chunk.js",
-    "main.js.map": "/bitmexListenerFrontend/static/js/main.792477c8.chunk.js.map",
+    "main.css": "/bitmexListenerFrontend/static/css/main.81fabb81.chunk.css",
+    "main.js": "/bitmexListenerFrontend/static/js/main.eef5beb0.chunk.js",
+    "main.js.map": "/bitmexListenerFrontend/static/js/main.eef5beb0.chunk.js.map",
     "runtime~main.js": "/bitmexListenerFrontend/static/js/runtime~main.1bb5bddc.js",
     "runtime~main.js.map": "/bitmexListenerFrontend/static/js/runtime~main.1bb5bddc.js.map",
-    "static/js/2.b41502e9.chunk.js": "/bitmexListenerFrontend/static/js/2.b41502e9.chunk.js",
-    "static/js/2.b41502e9.chunk.js.map": "/bitmexListenerFrontend/static/js/2.b41502e9.chunk.js.map",
+    "static/css/2.1aa7e2c8.chunk.css": "/bitmexListenerFrontend/static/css/2.1aa7e2c8.chunk.css",
+    "static/js/2.f7c05edb.chunk.js": "/bitmexListenerFrontend/static/js/2.f7c05edb.chunk.js",
+    "static/js/2.f7c05edb.chunk.js.map": "/bitmexListenerFrontend/static/js/2.f7c05edb.chunk.js.map",
     "index.html": "/bitmexListenerFrontend/index.html",
-    "precache-manifest.2039443c8e3fb6a20f9b4e6e37699345.js": "/bitmexListenerFrontend/precache-manifest.2039443c8e3fb6a20f9b4e6e37699345.js",
+    "precache-manifest.bd7c6df42913d4916a86ba519015b03f.js": "/bitmexListenerFrontend/precache-manifest.bd7c6df42913d4916a86ba519015b03f.js",
     "service-worker.js": "/bitmexListenerFrontend/service-worker.js",
-    "static/css/main.2cce8147.chunk.css.map": "/bitmexListenerFrontend/static/css/main.2cce8147.chunk.css.map",
-    "static/media/logo.svg": "/bitmexListenerFrontend/static/media/logo.5d5d9eef.svg"
+    "static/css/2.1aa7e2c8.chunk.css.map": "/bitmexListenerFrontend/static/css/2.1aa7e2c8.chunk.css.map",
+    "static/css/main.81fabb81.chunk.css.map": "/bitmexListenerFrontend/static/css/main.81fabb81.chunk.css.map",
+    "static/media/semantic.min.css": "/bitmexListenerFrontend/static/media/outline-icons.ef60a4f6.woff"
   }
 }
